@@ -1,5 +1,5 @@
 #  MeEvent
-**Plataforma Digital para Gestão, Organização e Efetuação de Eventos Online**
+**Plataforma Digital para Gestão, Organização e Efetuação de Torneios Online**
 
 O **MeEvent** é um sistema pensado para simplificar a criação, organização e gerenciamento de torneios digitais de games, conectando organizadores e participantes em uma plataforma única, moderna e intuitiva.
 
@@ -16,9 +16,9 @@ Projeto Integrador – **Firjan SENAI**
 
 ##  Funcionalidades Atuais e Futuras
 
-- **Seus eventos:** visualização de torneios criados/participados  
-- **Criar evento:** fluxo de criação completo  
-- **Evento:** modalidades ou categorias de disputa  
+- **Seus torneios:** visualização de torneios criados/participados  
+- **Criar torneio:** fluxo de criação completo  
+- **Torneio:** modalidades ou categorias de disputa  
 - **Notificações:** avisos em tempo real  
 - **Comunidades & Minhas comunidades:** criação e participação em grupos de interesse  
 - **Perfil:** edição e visualização de dados do usuário  
